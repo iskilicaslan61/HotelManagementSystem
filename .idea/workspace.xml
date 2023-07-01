@@ -40,7 +40,7 @@
       <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Student01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Subject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/config/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/exception/HotelResourceNotFoundException.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/modules.xml" afterDir="false" />
@@ -72,6 +72,9 @@
       <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/StudentRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/config/HibernateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/config/HibernateUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,17 +92,40 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2RyiWJ6urp02pkbGLzN4JlCIoht" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tpe.HotelMangementSystem.main.Main" />
+      <module name="HotelManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tpe.HotelMangementSystem.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
