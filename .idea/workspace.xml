@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="449fbfa4-6731-4066-bd95-5ecfb9a7fd61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Coding_Time/src/CalculatingAverageGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coding_Time/src/KdvCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub Practice-1/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb01/annotations/RunnerFetch01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb01/annotations/RunnerSave01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb01/annotations/Student01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb02/embeddable/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb02/embeddable/RunnerFetch02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb02/embeddable/RunnerSave02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb02/embeddable/Student02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb03/uni_onetoone/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb03/uni_onetoone/RunnerFetch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb03/uni_onetoone/RunnerSave03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb03/uni_onetoone/Student03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb04/bi_onetoone/Diary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb04/bi_onetoone/RunnerFetch04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb04/bi_onetoone/RunnerSave04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb04/bi_onetoone/Student04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb05/uni_manytoone/RunnerFetch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb05/uni_manytoone/RunnerSave05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb05/uni_manytoone/Student05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb05/uni_manytoone/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb06/uni_onetomany/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb06/uni_onetomany/RunnerFetch06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb06/uni_onetomany/RunnerSave06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/hb06/uni_onetomany/Student06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Student01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/advancedJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/src/generics/classes/GenericRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/src/generics/classes/NoneGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advancedJava/src/generics/method/GenericMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubPractise1/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/Execute01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ExecuteQuery02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/ExecuteUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/MedunnaRoomDataBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/PreParedStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/PreParedStatements01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/Transaction01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/main/java/sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/StudentService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2RyiWJ6urp02pkbGLzN4JlCIoht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="449fbfa4-6731-4066-bd95-5ecfb9a7fd61" name="Changes" comment="" />
+      <created>1688228752594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688228752594</updated>
+    </task>
+    <servers />
+  </component>
+</project>
