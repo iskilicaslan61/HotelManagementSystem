@@ -106,8 +106,6 @@
       <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/StudentRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../studentManagementSystemJDBCProject/src/main/java/StudentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/repository/GuestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/repository/GuestRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/repository/GuestRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpe/HotelMangementSystem/repository/GuestRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
