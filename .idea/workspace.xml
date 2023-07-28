@@ -69,6 +69,14 @@
       <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Student01.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/java/com/myExamples/Subject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HibernateLectureDayTime/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOCAndDI/src/com/tpe/app/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOCAndDI/src/com/tpe/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOCAndDI/src/com/tpe/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOCAndDI/src/com/tpe/service/SMSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation/src/main/java/com/tpe/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation/src/main/java/com/tpe/app/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation/src/main/java/com/tpe/domain/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation/src/main/java/com/tpe/service/MailService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../advancedJava/.idea/modules.xml" afterDir="false" />
